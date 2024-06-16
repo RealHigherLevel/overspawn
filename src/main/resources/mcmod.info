@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "overspawn",
+    "name": "OverSpawn",
+    "description": "A mod that adds a bunch of crazy things.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://lumus.team",
+    "updateUrl": "",
+    "authorList": ["LUMUS"],
+    "credits": "",
+    "logoFile": "icon.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
